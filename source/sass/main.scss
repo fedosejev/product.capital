@@ -34,14 +34,6 @@ p {
   margin-top: 50px;
 }
 
-a {
-  color: #b33636;
-
-  &:hover {
-    color: #8a1111;
-  }
-}
-
 section {
   border-top: 1px solid #eee;
 
@@ -62,11 +54,11 @@ section {
   }
 
   a {
-    //color: #8a5cb8;
+    color: #8a5cb8;
     margin-top: 20px;
 
     &:hover {
-      //color: #59367c;
+      color: #59367c;
       text-decoration: none;
     }
   }
