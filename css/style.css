@@ -307,11 +307,6 @@ p {
 .buy {
   margin-top: 50px; }
 
-a {
-  color: #b33636; }
-  a:hover {
-    color: #8a1111; }
-
 section {
   border-top: 1px solid #eee; }
   section h4 {
@@ -327,8 +322,10 @@ section {
     font-weight: bold;
     margin: 40px 0px 40px 0; }
   section a {
+    color: #8a5cb8;
     margin-top: 20px; }
     section a:hover {
+      color: #59367c;
       text-decoration: none; }
 
 .page-section__introduction {
