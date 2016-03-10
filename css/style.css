@@ -329,7 +329,7 @@ section {
       text-decoration: none; }
 
 .page-section__introduction {
-  padding: 8vw 0 60px 0;
+  padding: 8vw 0 8vw 0;
   text-align: center; }
   .page-section__introduction .book-cover {
     width: 100%;
